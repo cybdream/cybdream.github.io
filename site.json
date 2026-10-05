@@ -1,0 +1,12 @@
+{
+  "title": "cybdream · 개발 기록",
+  "description": "프로젝트를 만들고, 검증하고, 배운 것을 기록합니다.",
+  "url": "https://cybdream.github.io",
+  "categories": [
+    {"slug": "pkma", "name": "PKMA", "description": "메일과 지식을 실제 업무로 연결하는 에이전트 개발 기록"},
+    {"slug": "deliveryflow", "name": "DeliveryFlow", "description": "주문·배송 흐름의 설계와 프로젝트 회고"},
+    {"slug": "hangul-romanization", "name": "Hangul Romanization", "description": "한글 로마자 변환 실험과 구현"},
+    {"slug": "ai-development", "name": "AI·개발", "description": "AI 활용, 모델 연동, 개발 도구와 기술 실험"},
+    {"slug": "devlog", "name": "개발일지", "description": "작업 과정에서 만난 문제와 선택의 기록"}
+  ]
+}
